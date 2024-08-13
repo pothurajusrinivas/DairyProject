@@ -1,0 +1,41 @@
+@charset "UTF-8";
+body{
+	
+	display:flex;
+	justify-content:center;
+	
+}
+.box input{
+	margin-top:15px;
+	margin-left:5px;
+	
+}
+.iner input{
+	margin-top:40px;
+}
+.butt :hover
+{
+	
+	background-color: yellow;
+	cursor: pointer;
+	padding: 10px 20px;
+	
+}
+
+
+.box {
+	background-color: violet;
+	height: 250px;
+	width:500px;
+	text-align:center;
+	
+    
+}
+.img img
+{
+	width:100px;
+	height:110px;
+	margin-top:20px;
+	float:right;
+	
+}

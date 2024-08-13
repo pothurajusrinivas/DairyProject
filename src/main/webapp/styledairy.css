@@ -1,0 +1,59 @@
+@charset "UTF-8";
+body{
+	justify-content:center;
+	
+}
+.box input{
+	border:2px solid ;
+}
+.box{
+	height:250px;
+	width:500px;
+	justify-content:center;
+	border:1px black;
+	 text-align: center;
+	background-color:violet;
+	margin-left: 450px;
+	
+}
+.button{
+	
+	justify-content:center;
+	color:green;
+	margin-left: 200px;
+	margin-top: 50px;
+	height:20px;
+	width:10px;
+}
+.login-button {
+    background-color: orange;
+     color: black;
+      padding :5px;
+        cursor: pointer; 
+        border-radius: 8px;
+       margin-left:-100px;
+        cursor: pointer;
+}
+.login-button:hover {
+  background-color: yellow;
+}
+	
+.img {
+
+  margin-top: -200px;
+}
+
+.img img {
+  width: 150px;
+  height: 100px;
+  float:right;
+}
+.img p{
+	padding-left:340px;
+	padding-top:100px;
+	color:yellow;
+}
+
+.mov {
+	padding-right:160px;
+}
